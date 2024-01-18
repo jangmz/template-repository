@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "webpack-dev-server --open",
     "build": "webpack",
-    "install-dev-dependencies": "npm isntall --save-dev css-loader eslint prettier eslint-config-prettier file-loader html-webpack-plugin style-loader webpack webpack-cli webpack-dev-server"
+    "install-dev-dependencies": "npm install --save-dev css-loader eslint prettier eslint-config-prettier file-loader html-webpack-plugin style-loader webpack webpack-cli webpack-dev-server"
   },
   "keywords": [],
   "author": "",
