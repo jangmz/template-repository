@@ -1,1 +1,1 @@
-# template-repository
+# Project repository
